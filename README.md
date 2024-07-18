@@ -1,1 +1,16 @@
-awoogah
+## A collection of Textures Unlimited recolours for the parts from Near Future Aeronautics
+
+![wow look at them all](https://imgur.com/a/aCc9lXt)
+
+# Dependencies:
+- [Textures Unlimited](https://forum.kerbalspaceprogram.com/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
+- [TURD (Stock Recolour)](https://forum.kerbalspaceprogram.com/topic/174188-112x-textures-unlimited-recolour-depot/)
+- [Near Future Aeronautics](https://forum.kerbalspaceprogram.com/topic/155465-most-112x-near-future-technologies-august-26/)
+
+# To Install:
+- Download and unzip the files
+- Put the TU_NearFutureAero folder inside the TURD folder in gamedata
+
+# License:
+CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
