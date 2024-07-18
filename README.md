@@ -1,6 +1,6 @@
 ## A collection of Textures Unlimited recolours for the parts from Near Future Aeronautics
 
-![wow look at them all](https://imgur.com/a/aCc9lXt)
+![wow look at them all]([https://imgur.com/a/aCc9lXt](https://imgur.com/DqR5iaz))
 
 # Dependencies:
 - [Textures Unlimited](https://forum.kerbalspaceprogram.com/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
