@@ -10,8 +10,6 @@
 - Download and unzip the files
 - Put the TU_NearFutureAero folder into your gamedata folder
 
-Important: dont put TU_NearFutureAero inside the TURD folder, this one is different.
-
 # License:
 CC BY-NC-SA 4.0
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
